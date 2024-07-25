@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/flumius.github.io/static/js/main.3b4ad3ef.chunk.js",
-    "main.js.map": "/flumius.github.io/static/js/main.3b4ad3ef.chunk.js.map",
-    "runtime-main.js": "/flumius.github.io/static/js/runtime-main.3ff229de.js",
-    "runtime-main.js.map": "/flumius.github.io/static/js/runtime-main.3ff229de.js.map",
-    "static/js/2.dab9aec4.chunk.js": "/flumius.github.io/static/js/2.dab9aec4.chunk.js",
-    "static/js/2.dab9aec4.chunk.js.map": "/flumius.github.io/static/js/2.dab9aec4.chunk.js.map",
-    "index.html": "/flumius.github.io/index.html",
-    "static/js/2.dab9aec4.chunk.js.LICENSE.txt": "/flumius.github.io/static/js/2.dab9aec4.chunk.js.LICENSE.txt"
+    "main.js": "/flumius/macro.git/static/js/main.3b4ad3ef.chunk.js",
+    "main.js.map": "/flumius/macro.git/static/js/main.3b4ad3ef.chunk.js.map",
+    "runtime-main.js": "/flumius/macro.git/static/js/runtime-main.83ddd9f4.js",
+    "runtime-main.js.map": "/flumius/macro.git/static/js/runtime-main.83ddd9f4.js.map",
+    "static/js/2.dab9aec4.chunk.js": "/flumius/macro.git/static/js/2.dab9aec4.chunk.js",
+    "static/js/2.dab9aec4.chunk.js.map": "/flumius/macro.git/static/js/2.dab9aec4.chunk.js.map",
+    "index.html": "/flumius/macro.git/index.html",
+    "static/js/2.dab9aec4.chunk.js.LICENSE.txt": "/flumius/macro.git/static/js/2.dab9aec4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ff229de.js",
+    "static/js/runtime-main.83ddd9f4.js",
     "static/js/2.dab9aec4.chunk.js",
     "static/js/main.3b4ad3ef.chunk.js"
   ]
